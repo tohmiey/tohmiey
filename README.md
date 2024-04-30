@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kehinde Hassan
+- 👋 Hi, I’m Kehinde Hassan.
 - 👀 I’m interested in Data Analysis, Business Intelligence/Analysis, and Product Management.
 - 🌱 I’m currently learning Data Aanalytics.
 - 💞️ I’m looking to collaborate on Data Analysis.
